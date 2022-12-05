@@ -1,0 +1,4 @@
+name = "Mkcert"
+uuid = "f2e023e7-06c5-4a31-9859-21762dffa823"
+authors = ["dom <onetonfoot@gmail.com>"]
+version = "0.1.0"

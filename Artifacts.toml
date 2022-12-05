@@ -1,0 +1,44 @@
+[[mkcert]]
+arch = "x86_64"
+git-tree-sha1 = "e3395d0df21b507ddf1fb61a3fd27cf2a8420a1c"
+os = "darwin"
+
+    [[mkcert.download]]
+    sha256 = "80c748c51de72c59b33d409785ce2d8833b67826d716b4fa941a510bb0a01677"
+    url = "https://gist.github.com/onetonfoot/f376a5c47ed534df94cefb2841a15058/raw/e3395d0df21b507ddf1fb61a3fd27cf2a8420a1c.tar.gz"
+[[mkcert]]
+arch = "amd64.exe"
+git-tree-sha1 = "6c04ff8da9a059fe6ae599fcbe90146882c7732d"
+os = "windows"
+
+    [[mkcert.download]]
+    sha256 = "bf24bc570cb331d81ea4dda45da009d7c6d6545d8bd825b576cede8906883a16"
+    url = "https://gist.github.com/onetonfoot/0ff031bee837cf6b743fdb11be2aedfa/raw/6c04ff8da9a059fe6ae599fcbe90146882c7732d.tar.gz"
+[[mkcert]]
+arch = "x86_64"
+git-tree-sha1 = "6c03a4825df49cf9e1ce71b8d883066e7a06ef96"
+libc = "glibc"
+os = "linux"
+
+    [[mkcert.download]]
+    sha256 = "de84e6eb3121cb53c5bd3b5b909c252a45f6618b23ec9c042b6fd39059d03e64"
+    url = "https://gist.github.com/onetonfoot/d29ce8d8cb77d43caebcd0be5e990e57/raw/6c03a4825df49cf9e1ce71b8d883066e7a06ef96.tar.gz"
+[[mkcert]]
+arch = "aarch64"
+git-tree-sha1 = "1d7a4efdf94c1b1d32970dc9df6a4f620b36aabc"
+libc = "glibc"
+os = "linux"
+
+    [[mkcert.download]]
+    sha256 = "0b6cadf12e5c2199852d4e859f8eb6ab62ba01e4a519809302c1c237d4ee0c66"
+    url = "https://gist.github.com/onetonfoot/dbc09bd0a53d1687e26765a080394898/raw/1d7a4efdf94c1b1d32970dc9df6a4f620b36aabc.tar.gz"
+[[mkcert]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "71dc762ad06f64665cb5555df5a05771e576c219"
+libc = "glibc"
+os = "linux"
+
+    [[mkcert.download]]
+    sha256 = "6cd83b8a23d441593f8724c3936b21fd17a76f0a559ca616684a75d1a114b8ea"
+    url = "https://gist.github.com/onetonfoot/3b900c6bad05d649a446e3af787dff05/raw/71dc762ad06f64665cb5555df5a05771e576c219.tar.gz"
