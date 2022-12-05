@@ -1,5 +1,9 @@
 module Mkcert
 
-greet() = print("Hello World!")
+using Pkg.Artifacts
+
+export mkcert
+
+const mkcert = joinpath(artifact"mkcert", "mkcert")	
 
 end # module Mkcert
