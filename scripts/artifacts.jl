@@ -4,7 +4,7 @@ using Base.BinaryPlatforms
 # https://github.com/JuliaLang/julia/issues/38599
 BinaryPlatforms.host_triplet()
 
-# put this in .ssh/config temporaly
+# Put this in .ssh/config temporarily
 # Host gist.github.com
 #     StrictHostKeyChecking no
 
