@@ -1,5 +1,5 @@
 using Test, Mkcert
 
-@testset begin
+@testset "mkcert" begin
 	@test length(read(`$mkcert --help`, String)) > 0
 end
