@@ -1,7 +1,7 @@
 name = "Mkcert"
 uuid = "f2e023e7-06c5-4a31-9859-21762dffa823"
 authors = ["dom <onetonfoot@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
